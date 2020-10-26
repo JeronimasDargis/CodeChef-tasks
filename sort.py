@@ -10,5 +10,6 @@ for case in range(t):
 digits = [int(x) for x in str(numbers)]
 digits.sort()
 
-for digit in str(digits):
-    print(digit)
+
+for digit in (digits):
+    print(str(digit))
