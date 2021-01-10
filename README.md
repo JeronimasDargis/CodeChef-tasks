@@ -1,1 +1,1 @@
-# Collection of python tasks
+Collection of python tasks
